@@ -25,9 +25,12 @@
 
    
 <ul class="row social-link no-margin">
-    <li><a href="https://t.me/MHMK2002" target="_blank"><i class="fab fa-telegram"></i></a></li>
-    <li><a href="www.linkedin.com/in/hasan-khani-791b5a24b" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-    <li><a href="https://github.com/MHMK2002" target="_blank"><i class="fab fa-github"></i></a></li>
+    <li><a href="https://t.me/MHMK2002" target="_blank"><img src="https://github.com/MHMK2002/MHMK2002/blob/main/telegram.png"/>
+    </a></li>
+    <li><a href="www.linkedin.com/in/hasan-khani-791b5a24b" target="_blank">
+        <img src="https://github.com/MHMK2002/MHMK2002/blob/main/linkedin.png"/>
+    </a></li>
+    <li>Email: khanihasan1381@gmail.com</li>
 </ul>
 
    
