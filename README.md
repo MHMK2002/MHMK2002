@@ -1,59 +1,40 @@
-<h2 align="center">
-    💻 MHMK 💻 <br/>
-    <sub><sup>Django Developer</sup></sub>
-</h2>
+# Hi there! 👋
 
-<h3 align="left">:man_technologist: About Me:</h3>
+I'm a **Software Engineer** with a passion for building scalable and efficient backend systems.  
+My main expertise is in **Python backend development**, but I also enjoy working on the frontend side when needed.  
+I've also worked on **cloud development**, building and integrating services for cloud-native platforms.
 
-Hello there! I'm Mohammad Hassan Mohammad Khani, a grand enthusiast of Django development. Besides coding, my spirit craves for leadership and managerial tasks that augment my growth mindset. And yes, I'm always ready to embark on fascinating coding journeys. 
+## 🛠️ Tech Stack
 
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
+- **Backend**: Django, Django REST Framework, FastAPI, Celery  
+- **Frontend**: React, HTML, CSS  
+- **Databases**: PostgreSQL, MySQL, SQLite  
+- **Cloud & DevOps**: Docker, Kubernetes, GitLab CI/CD, Git  
+- **Cloud Platforms**: KaaS, IaaS, PaaS, and S3-compatible object storage systems
 
+- **Other Skills**:  
+  - RESTful & GraphQL API design  
+  - Clean Architecture & modular design  
+  - Writing unit & integration tests
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/pyhp2017/pyhp2017/main/0_zwm6LgCEadPeVdnA.png" alt="django" width="90" height="60"/> </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-    <a href="https://restfulapi.net/" target="_blank"> RESTful APIs </a> 
-</p>
+## 🚀 Currently Learning
 
-<h2 align="left">:wrench: Skills:</h2>
+- Microservice architecture  
+- Kubernetes & cloud-native toolchains  
+- System design & performance optimization  
 
-- Python
-- RESTful API Design
-- PostgreSQL
-- MongoDB
-- Django
-- Javascript
-- CSS
-- HTML
-- Java
-- C/C++
+## 📫 Get in Touch
 
-
-
-
-<h2 align="left">🔨 Projects:</h2>
-
-- [Store](https://github.com/MHMK2002/store)
-- [Chat Box](https://github.com/MHMK2002/chat_box)
-- [Eshop](https://github.com/MHMK2002/eshop)
-- [Discord](https://github.com/MHMK2002/Discord)
-- [Mr-Jack](https://github.com/MHMK2002/Mr-Jack)
-
-  <h2 align="left">:heart: Let's get connected:</h2>
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 15px;">
-      <div>
-          <a href="https://t.me/MHMK2002" target="_blank" style="display: inline-block; vertical-align: middle;"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
-      </div>
-      <div>
-          <a href="www.linkedin.com/in/hasan-khani-791b5a24b" target="_blank" style="display: inline-block; vertical-align: middle;"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-      </div>
-      <div>
-          <a href="mailto:khanihasan1381@gmail.com" target="_blank" style="display: inline-block; vertical-align: middle;"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/> </a>
-      </div>
-  </div>
+- [LinkedIn](www.linkedin.com/in/hasan-khani-791b5a24b)
+- [Email](mailto:khanihasan1381@gmail.com)
 
 
+---
+
+🌱 Always open to learning and collaborating on interesting open-source or cloud-native projects.  
+Feel free to reach out if you have something in mind — I'd love to hear about it!
