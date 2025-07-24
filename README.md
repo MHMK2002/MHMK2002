@@ -30,7 +30,7 @@ I've also worked on **cloud development**, building and integrating services for
 
 ## 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/hasan-khani-791b5a24b)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-hassan-mohammad-khani-791b5a24b/)
 - [Email](mailto:khanihasan1381@gmail.com)
 
 
